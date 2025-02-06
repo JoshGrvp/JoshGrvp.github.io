@@ -4,3 +4,5 @@ title:  "Información sobre mi"
 date:   2025-02-6 00:00:00 +0100
 categories: jekyll update
 ---
+
+Link para acceder a mi: [Curriculum](https://joshgrvp.github.io/Curriculum/).
